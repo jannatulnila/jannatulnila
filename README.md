@@ -3,6 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Jannatul Fardous Nila</h1>
 
+**🎯 Front-End Web Developer | React.js | Tailwind CSS | JavaScript**
+
+📍 Based in Bangladesh | Building responsive, user-centric websites with performance in mind.
+
 <h3 align="left">About Me</h3>
 
 -🔭 I currently building full-stack web apps
